@@ -21,6 +21,28 @@ I enjoy turning raw data into actionable insights through **visualizations, dash
 - **Tools:** Excel (Pivot Tables, Power Query, VLOOKUP, Macros), Jupyter Notebook, Git/GitHub  
 
 ---
+## 🖥️PROFESSIONAL EXPERIENCE
+Data Analytics Engineer, Core AI Consulting | Phoenix, Arizona, USA April 2025 – Present
+- Designed and implemented GCP-based data pipelines using Data Fusion, Pub/Sub, and Big Query to process, transform, and analyze structured & unstructured datasets from legacy systems and other document sources.
+- Automated ingestion workflows leveraging Cloud Functions, ensuring accurate extraction and transformation into analytical datasets.
+- Created real-time dashboards in Looker Studio to visualize extracted data and provide operational insights for decision-making.
+- Ensured end-to-end data integration from ingestion to analytics, improving processing efficiency by 40%.
+  
+GCP Data Engineer, Vsion Technologies | Austin, Texas, USA September 2024 – April 2025
+- Built scalable ETL pipelines using Apache Beam on Google Dataflow, integrating data from multiple sources into Snowflake and Big Query for analytics.
+- Designed complex SQL queries and optimized views in Big Query, enhancing query performance and reducing execution time by 25%.
+- Developed interactive dashboards in Looker Studio and Power BI to visualize KPIs using advanced charts (tree maps, histograms, geospatial maps).
+- Integrated Cloud Composer for orchestrating workflows and automated pipeline execution.
+- Collaborated with ML teams to deliver clean, structured datasets for Vertex AI modeling.
+  
+Data Analyst, Zetatek Technologies Pvt Ltd | Hyderabad, India Jan 2022 – Dec 2022
+- Analyzed operational and financial datasets using Python (Pandas, NumPy) and SQL to uncover business trends and optimize resource allocation.
+- Utilized Excel (Pivot Tables, VLOOKUP, Power Query) for data cleansing, transformation, and scenario modeling
+- Developed automated Power BI dashboards for leadership, incorporating drill-throughs and dynamic filters to enhance decision-making speed.
+- Streamlined reporting processes by integrating SQL-based queries with Power BI, reducing report preparation time by 50%.
+- Produced actionable insights through visual storytelling for non-technical stakeholders.
+  
+---
 
 ## 📊 Featured Projects  
 
