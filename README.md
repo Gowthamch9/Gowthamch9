@@ -22,7 +22,7 @@ I enjoy turning raw data into actionable insights through **visualizations, dash
 
 ---
 ## 🖥️PROFESSIONAL EXPERIENCE
-**GCP Data Engineer, Vsion Technologies | Austin, Texas, USA September 2024 – April 2025**
+**Data Engineer, Vsion Technologies | Austin, Texas, USA September 2024 – April 2025**
 - Built scalable ETL pipelines using Apache Beam on Google Dataflow, integrating data from multiple sources into Snowflake and Big Query for analytics.
 - Designed complex SQL queries and optimized views in Big Query, enhancing query performance and reducing execution time by 25%.
 - Developed interactive dashboards in Looker Studio and Power BI to visualize KPIs using advanced charts (tree maps, histograms, geospatial maps).
