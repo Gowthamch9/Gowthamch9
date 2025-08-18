@@ -23,11 +23,11 @@ I enjoy turning raw data into actionable insights through **visualizations, dash
 ---
 ## 🖥️PROFESSIONAL EXPERIENCE
 **Data Engineer, Vsion Technologies | Austin, Texas, USA September 2024 – April 2025**
-- Built scalable ETL pipelines using Apache Beam on Google Dataflow, integrating data from multiple sources into Snowflake and Big Query for analytics.
-- Designed complex SQL queries and optimized views in Big Query, enhancing query performance and reducing execution time by 25%.
-- Developed interactive dashboards in Looker Studio and Power BI to visualize KPIs using advanced charts (tree maps, histograms, geospatial maps).
-- Integrated Cloud Composer for orchestrating workflows and automated pipeline execution.
-- Collaborated with ML teams to deliver clean, structured datasets for Vertex AI modeling.
+- Developed optimized SQL views on PostgreSQL staging tables sourced from Kafka topics to streamline query performance and expose only business-critical attributes.
+- Implemented complex data transformation logic to generate analytical datasets, aligning with business rules for both domestic and global datasets.
+- Designed and built layered data views, including standalone views for specific functional data streams and domain-level aggregated views to enable downstream consumers to apply advanced business logic.
+- Collaborated closely with upstream teams handling data ingestion through Kafka and downstream teams leveraging final domain views.
+- Ensured scalability and performance by applying query optimization techniques and modularized view design for maintainability.
   
 **Data Analyst, Zetatek Technologies Pvt Ltd | Hyderabad, India Jan 2022 – Dec 2022**
 - Analyzed operational and financial datasets using Python (Pandas, NumPy) and SQL to uncover business trends and optimize resource allocation.
