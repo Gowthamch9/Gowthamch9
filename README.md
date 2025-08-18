@@ -22,7 +22,7 @@ I enjoy turning raw data into actionable insights through **visualizations, dash
 
 ---
 ## 🖥️PROFESSIONAL EXPERIENCE
-**Data Engineer, Vsion Technologies | Austin, Texas, USA September 2024 – April 2025**
+**Data Engineer, Vsion Technologies | Austin, Texas, USA September 2024 – Present**
 - Developed optimized SQL views on PostgreSQL staging tables sourced from Kafka topics to streamline query performance and expose only business-critical attributes.
 - Implemented complex data transformation logic to generate analytical datasets, aligning with business rules for both domestic and global datasets.
 - Designed and built layered data views, including standalone views for specific functional data streams and domain-level aggregated views to enable downstream consumers to apply advanced business logic.
