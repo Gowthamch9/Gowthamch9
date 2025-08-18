@@ -22,12 +22,6 @@ I enjoy turning raw data into actionable insights through **visualizations, dash
 
 ---
 ## 🖥️PROFESSIONAL EXPERIENCE
-**Data Analytics Engineer, Core AI Consulting | Phoenix, Arizona, USA April 2025 – Present**
-- Designed and implemented GCP-based data pipelines using Data Fusion, Pub/Sub, and Big Query to process, transform, and analyze structured & unstructured datasets from legacy systems and other document sources.
-- Automated ingestion workflows leveraging Cloud Functions, ensuring accurate extraction and transformation into analytical datasets.
-- Created real-time dashboards in Looker Studio to visualize extracted data and provide operational insights for decision-making.
-- Ensured end-to-end data integration from ingestion to analytics, improving processing efficiency by 40%.
-  
 **GCP Data Engineer, Vsion Technologies | Austin, Texas, USA September 2024 – April 2025**
 - Built scalable ETL pipelines using Apache Beam on Google Dataflow, integrating data from multiple sources into Snowflake and Big Query for analytics.
 - Designed complex SQL queries and optimized views in Big Query, enhancing query performance and reducing execution time by 25%.
