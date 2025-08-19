@@ -40,37 +40,56 @@ I enjoy turning raw data into actionable insights through **visualizations, dash
 
 ## 📊 Featured Projects  
 
-### 🔹 [Data_Analysis-using-python](https://github.com/Gowthamch9/Data-Analysis-using-python)
-- Worked on Python(Pandas, Numpy) for Analyzing, Cleaning, and visulaizing various types of data.
-- Imported and cleaned raw data (handled missing values, outliers), Performed descriptive statistics and exploratory data analysis.
-- Built visualizations to highlight trends and correlations using Python(Seaborn, and Matplotlib).
+### 💼 Professional Projects  
 
-### 🔹 [MSSQL_Queries](https://github.com/Gowthamch9/MSSQL_Queries)
-- Written SQL Queries in MSSQL Server using SSMS(SQL Server Management Studio) worked on AdventureWorks2019 Database.  
-- Queried the Database using Joins, Window Functions, CTES(Comman Table Expression), Functions, Views, and Stored Procedures.  
-- Delivered structured datasets for reporting and visualization. 
+#### 🔹 [Vsion-Technologies-CaseStudy](https://github.com/Gowthamch9/Vsion-Technologies-CaseStudy)  
+- Designed and optimized **SQL views** on PostgreSQL staging tables sourced from **Kafka topics**.  
+- Implemented **complex data transformation logic** to create analytical datasets aligned with business rules.  
+- Built **layered data views** (functional + domain-level) to simplify downstream reporting and analytics.  
+- Applied **query optimization techniques** to ensure scalability and maintainability.  
 
-### 🔹 [Power-BI-Projects](https://github.com/Gowthamch9/Power-BI-Projects)  
+#### 🔹 [Zetatek-DataAnalysis-CaseStudy](https://github.com/Gowthamch9/Zetatek-DataAnalysis-CaseStudy)  
+- Analyzed **operational and financial datasets** using Python (Pandas, NumPy) and SQL.  
+- Used **Excel (Power Query, Pivot Tables, VLOOKUP)** for data transformation and scenario modeling.  
+- Built **automated Power BI dashboards** with drill-throughs and dynamic filters.  
+- Reduced reporting preparation time by **50%** through SQL + Power BI integration.  
+
+---
+
+### 🎓 Academic & Practice Projects  
+
+#### 🔹 [Data_Analysis-using-python](https://github.com/Gowthamch9/Data-Analysis-using-python)  
+- Worked on Python (Pandas, Numpy) for analyzing, cleaning, and visualizing various types of data.  
+- Imported and cleaned raw data (handled missing values, outliers), performed descriptive statistics and exploratory data analysis.  
+- Built visualizations to highlight trends and correlations using Seaborn and Matplotlib.  
+
+#### 🔹 [MSSQL_Queries](https://github.com/Gowthamch9/MSSQL_Queries)  
+- Written SQL Queries in MSSQL Server using SSMS (SQL Server Management Studio) on AdventureWorks2019 Database.  
+- Queried the database using Joins, Window Functions, CTEs, Functions, Views, and Stored Procedures.  
+- Delivered structured datasets for reporting and visualization.  
+
+#### 🔹 [Power-BI-Projects](https://github.com/Gowthamch9/Power-BI-Projects)  
 - Extracted and prepared raw data using SQL and Excel Power Query.  
 - Modeled relationships between datasets in Power BI.  
-- Designed dashboards with drill-throughs, slicers, and custom visuals.
-- Automated refresh schedules for near real-time reporting.
+- Designed dashboards with drill-throughs, slicers, and custom visuals.  
+- Automated refresh schedules for near real-time reporting.  
 
- ### 🔹 [TDSP-Transportation_Data_Science_Project](https://github.com/Gowthamch9/TDSP-Transportation_Data_Science_Project)  
-- Worked on a Open-Source Data Scinece Project organized by the columbia University at New York to analyze the New York City Car crashes.
-- Used Python(Pandas, Numpy) for Data Preparation & Data Pre-processing.
-- Conducted Time Series Analysis, Sensitity Analysis, and Geospatial Analysis using Python(seaborn, matplotlib, and folium).    
-- Presented my final key findings using a Power Point Presentation.
-### 🔹 [Pizza-Sales-Excel-Project](https://github.com/Gowthamch9/Pizza-Sales-Excel-Project)  
-- Collected Pizza_sales Data from kaggle and created a dashboard outling the performance of the sales for the year 2015.
-- Used Power Query to transform, and clean the data.
-- Used Pivot Tables, and advanced Excel Functions to gather key findings.
-- Presented the data using Excel in-built charts and built an interactive dashboard with slicers, filers to present key findings.
+#### 🔹 [TDSP-Transportation_Data_Science_Project](https://github.com/Gowthamch9/TDSP-Transportation_Data_Science_Project)  
+- Worked on an open-source project organized by Columbia University to analyze New York City car crashes.  
+- Used Python (Pandas, Numpy) for data preparation & preprocessing.  
+- Conducted time series analysis, sensitivity analysis, and geospatial analysis using Seaborn, Matplotlib, and Folium.  
+- Presented final key findings in a presentation.  
 
-### 🔹 [Machine-Learning-using-python](https://github.com/Gowthamch9/Machine-Learning-using-Python)  
-- collected the data from data.gov and Kaggle and utilized python to get understanding with Machine Learning(Supervised Learning, and Unsupervised Learning).
-- Enriched the data utilizing StandardScaler and RandomOverSampler.
-- Worked with Supervised Learning(KNeighborsClassifier, GaussianNB, LogisticRegression, SVC(Support Vector Machine)) and Unsupervised Learning(Neural Network, Linear Regression, K-Means Clustering & Principal Component Analysis(PCA)).
+#### 🔹 [Pizza-Sales-Excel-Project](https://github.com/Gowthamch9/Pizza-Sales-Excel-Project)  
+- Collected Pizza Sales data from Kaggle and created a dashboard outlining sales performance for 2015.  
+- Used Power Query to transform and clean the data.  
+- Applied Pivot Tables and advanced Excel functions to extract insights.  
+- Designed an interactive dashboard with slicers and filters for business insights.  
+
+#### 🔹 [Machine-Learning-using-python](https://github.com/Gowthamch9/Machine-Learning-using-Python)  
+- Collected datasets from Data.gov and Kaggle and applied Python for machine learning.  
+- Preprocessed data with StandardScaler and RandomOverSampler.  
+- Built supervised models (KNN, Naive Bayes, Logistic Regression, SVM) and unsupervised models (Neural Networks, Linear Regression, K-Means, PCA).  
 
 ---
 
