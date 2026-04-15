@@ -14,7 +14,7 @@ Denton, Texas, USA
 
 ---
 ## Research Agenda
-When a large language model confidently returns a wrong answer to a high-stakes clinical or financial query, who bears the cost — and how do we prevent it? This question has defined my research trajectory. Working at the intersection of machine learning and real-world data infrastructure — from building financial data pipelines at scale to studying the failure modes of generative AI — I have come to focus on a single, urgent problem: how do we build AI systems that know what they don’t know? I am fascinated to develop scalable frameworks for uncertainty quantification and trustworthiness in AI systems operating on high-volume, real-world data.
+When a large language model confidently returns a wrong answer to a high-stakes clinical or financial query, who bears the cost — and how do we prevent it? This question has defined my research trajectory. Working at the intersection of machine learning and real-world data infrastructure — from building financial data pipelines at scale to studying the failure modes of generative AI — I have come to focus on a single, urgent problem: **how do we build AI systems that know what they don’t know?** I am fascinated to develop scalable frameworks for uncertainty quantification and trustworthiness in AI systems operating on high-volume, real-world data.
 
 ---
 
