@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Gowthamch9/Gowthamch9/blob/main/unt.png" alt="Gowtham Venkat Eathamokkala Avatar" width="750"/>
+  <img src="https://github.com/Gowthamch9/Gowthamch9/blob/main/unt.png" alt="Gowtham Venkat Eathamokkala Avatar" width="650"/>
   <br>
 </p>
 
