@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://github.com/Gowthamch9/Gowthamch9/blob/main/unt.png" alt="Gowtham Venkat Eathamokkala Avatar" width="1000"/>
+  <br>
+</p>
+
+
+
+
 <div align="center">
 
 # **GOWTHAM VENKAT EATHAMOKKALA**
