@@ -1,6 +1,13 @@
-# Gowtham Venkat Eathamokkala
+<div align="center">
 
-**Data Engineer/Data Analyst | Research Enthusiast in Agentic AI, Reliability, and Scalable Data Systems**  
+# **GOWTHAM VENKAT EATHAMOKKALA**
+
+---
+
+### **Data Analyst / Data Engineer**
+
+</div>
+ 
 Denton, Texas, USA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/gowtham-eathamokkala) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square)](https://scholar.google.com/GowthamVenkatEathamokkala) [![Email](https://img.shields.io/badge/Email-gchaudary99%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:gchaudary99@gmail.com) ![Phone](https://img.shields.io/badge/Phone-%2B1--940--536--4494-4CAF50?style=flat-square&logo=phone)
@@ -131,6 +138,5 @@ University of North Texas • **May 2024**
 
 ## Visual Badges and Quick Links
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-2EA44F?style=flat-square&logo=orcid)](https://orcid.org) [![GCP](https://img.shields.io/badge/Google%20Cloud-Verified-4285F4?style=flat-square&logo=googlecloud)](https://cloud.google.com) [![PyPI](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python)](https://www.python.org)
-
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--2937--3052-2EA44F?style=flat-square&logo=orcid)](https://orcid.org/0009-0000-2937-3052)
 
