@@ -99,11 +99,11 @@ University of North Texas • **May 2024**
 
 ## Technical Skills
 
-**Programming and Data Science:** Python (NumPy, Pandas, scikit-learn, PyTorch, TensorFlow), SQL, PySpark, R
-**Machine Learning and Statistics:** Regression, Classification, Clustering, Neural Networks, Time Series Forecasting, PCA, Random Forests, Support Vector Machines, Cross-Validation, Model Evaluation, Uncertainty Quantification
-**Big Data and Cloud Systems:** Apache Spark, Kafka, Google Cloud Platform (BigQuery, Dataflow, Pub/Sub, Dataproc, Cloud SQL, Vertex AI), Snowflake
-**Databases:** PostgreSQL, MySQL, Microsoft SQL Server
-**Visualization and Tools:** Matplotlib, Seaborn, Power BI, Tableau, Git, Jupyter Notebook, LaTeX
+- **Programming and Data Science:** Python (NumPy, Pandas, scikit-learn, PyTorch, TensorFlow), SQL, PySpark, R
+- **Machine Learning and Statistics:** Regression, Classification, Clustering, Neural Networks, Time Series Forecasting, PCA, Random Forests, Support Vector Machines, Cross-Validation, Model Evaluation, Uncertainty Quantification
+- **Big Data and Cloud Systems:** Apache Spark, Kafka, Google Cloud Platform (BigQuery, Dataflow, Pub/Sub, Dataproc, Cloud SQL, Vertex AI), Snowflake
+- **Databases:** PostgreSQL, MySQL, Microsoft SQL Server
+- **Visualization and Tools:** Matplotlib, Seaborn, Power BI, Tableau, Git, Jupyter Notebook, LaTeX
 
 ---
 
