@@ -7,7 +7,7 @@
  
 Denton, Texas, USA
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/gowtham-eathamokkala) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square)](https://scholar.google.com/GowthamVenkatEathamokkala) [![Email](https://img.shields.io/badge/Email-gchaudary99%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:gchaudary99@gmail.com) ![Phone](https://img.shields.io/badge/Phone-%2B1--940--536--4494-4CAF50?style=flat-square&logo=phone)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/gowtham-eathamokkala) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square)](https://scholar.google.com/citations?user=-h3th_AAAAAJ&hl=en) [![Email](https://img.shields.io/badge/Email-gchaudary99%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:gchaudary99@gmail.com) ![Phone](https://img.shields.io/badge/Phone-%2B1--940--536--4494-4CAF50?style=flat-square&logo=phone)
 
 ---
 ## Research Agenda
