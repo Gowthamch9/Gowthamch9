@@ -36,7 +36,7 @@ When a large language model confidently returns a wrong answer to a high-stakes 
 
 ## Research Experience
 
-**Volunteer Researcher — Reliability of Large Language Models**  
+**Graduate Research Affiliate — Reliability of Large Language Models**  
 Computational Healthcare & BioTechnology Lab, Dr. Mohammed Aledhari, University of North Texas • **Jan 2025 – Present**  
 -	Investigating failure modes and uncertainty-aware decision-making processes in large language models (LLMs) to address the critical problem of confident yet inaccurate AI outputs.
 -	Designing experimental protocols to evaluate model calibration and reliability across diverse query domains, contributing to the development of trustworthy AI evaluation frameworks.
