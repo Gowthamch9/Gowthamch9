@@ -62,10 +62,10 @@ University of North Texas • **May 2024**
 
 ---
 
-## Publications and Working Papers
+## Publications and Manuscripts
 
-- **B. V. Kumar, A. Bharat, E. G. Venkat, Y. S. S. Harsha, A. U. Sree**, "Analysis of an IoT based Water Quality Monitoring System," I-SMAC 2022. DOI: `10.1109/I-SMAC55078.2022.9987360`.  
-- **Working Paper:** *Eathamokkala, G.V.* “Structural and Demographic Patterns in Custodial Arrests: An Exploratory Analysis of Dallas Police Data.” Independent Research Report, UNT, 2024.
+- B. V. Kumar, A. Bharat, **G. V. Eathamokkala**, Y. S. S. Harsha, A. U. Sree, "Analysis of an IoT based Water Quality Monitoring System," I-SMAC 2022. DOI: `10.1109/I-SMAC55078.2022.9987360`.  
+- 2.	Al-Edhari, A., **G. V. Eathamokkala**, & Rahouti, M. (2026). Response drift across frontier large language models. Manuscript under review at Nature Machine Intelligence.
 
 ---
 
@@ -134,6 +134,7 @@ University of North Texas • **May 2024**
 - **English:** Professional proficiency  
 - **Telugu:** Native  
 - **Hindi:** Conversational proficiency
+- **Tamil:** Conversational Proficiency
 
 ---
 
