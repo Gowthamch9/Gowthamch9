@@ -65,7 +65,7 @@ University of North Texas • **May 2024**
 ## Publications and Manuscripts
 
 - B. V. Kumar, A. Bharat, **G. V. Eathamokkala**, Y. S. S. Harsha, A. U. Sree, "Analysis of an IoT based Water Quality Monitoring System," I-SMAC 2022. DOI: `10.1109/I-SMAC55078.2022.9987360`.  
-- 2.	Al-Edhari, A., **G. V. Eathamokkala**, & Rahouti, M. (2026). Response drift across frontier large language models. Manuscript under review at Nature Machine Intelligence.
+- Al-Edhari, A., **G. V. Eathamokkala**, & Rahouti, M. (2026). Response drift across frontier large language models. Manuscript under review at Nature Machine Intelligence.
 
 ---
 
