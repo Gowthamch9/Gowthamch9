@@ -91,6 +91,18 @@ University of North Texas • **May 2024**
 
 ## Academic Projects
 
+**TriSQL Framework — Text-to-SQL Research Implementation**
+
+Independently implemented a three-stage Text-to-SQL framework inspired by the TriSQL architecture (Nature Scientific Reports, 2026), converting plain English questions into executable SQL queries using open-source tools running entirely on local hardware.
+
+Designed and built a semantic schema selector using sentence-transformers (all-MiniLM-L6-v2) to filter relevant database tables via cosine similarity, reducing prompt noise and improving generation quality.
+Developed a two-step structured SQL generator that first identifies required SQL clauses (JOIN, GROUP BY, WHERE) before generating the complete query — improving syntactic correctness over single-prompt approaches.
+Implemented a complexity-aware refinement stage that classifies generated SQL as Easy, Medium, or Hard and applies tiered error correction including execution feedback loops for hard queries.
+Evaluated on the Spider benchmark dataset (Yale University) — achieving 70% Execution Accuracy and 100% Executability Rate using SQLCoder via Ollama with no GPU or API costs.
+Deployed a FastAPI web interface enabling non-technical users to query any SQLite database in plain English and view results directly in a browser.
+
+GitHub: https://github.com/Gowthamch9/trisql-framework
+
 **IoT-Based Water Quality Monitoring System (E-Aqua)**  
 -	Engineered an IoT-enabled prototype integrating pH, turbidity, TDS, temperature, and flow sensors with an Arduino-based controller for real-time environmental data acquisition.
 -	Implemented wireless data transmission via ESP8266 Wi-Fi module, enabling continuous remote monitoring through a cloud-connected dashboard and mobile interface.
