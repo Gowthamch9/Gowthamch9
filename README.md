@@ -99,18 +99,6 @@ Currently a **PhD student in Information Science at UNT (Fall 2026)** and active
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Gowtham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gowthamch9&show_icons=true&theme=default&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowthamch9&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
 ## 🔬 Research & Publications
 
 - **Al-Edhari, A., Eathamokkala, G. V., & Rahouti, M.** (2026). *Response drift across frontier large language models.* Manuscript under review at **Nature Machine Intelligence**.
