@@ -1,10 +1,14 @@
-<div align="center">
+<p align="center">
+  <img src="https://github.com/Gowthamch9/Gowthamch9/blob/main/unt.png" alt="Gowtham Venkat Eathamokkala Avatar" width="650"/>
+  <br>
+</p>
 
-# Gowtham Venkat Eathamokkala
+</div>
+ 
 
 ### Data Engineer · Data Analyst · ML Practitioner
 
-📍 Denton, Texas, USA &nbsp;|&nbsp; 📧 [gchaudary99@gmail.com](mailto:gchaudary99@gmail.com) &nbsp;|&nbsp; 📞 +1-940-536-4494
+📍 Denton, Texas, USA &nbsp;|&nbsp; 📧 [GowthamVenkatEathamokkala@my.unt.edu](mailto:GowthamVenkatEathamokkala@my.unt.edu) &nbsp;|&nbsp; 📞 +1-940-536-4494
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/gowtham-eathamokkala)
 [![GitHub](https://img.shields.io/badge/GitHub-Gowthamch9-181717?logo=github&style=flat-square)](https://github.com/Gowthamch9)
@@ -79,6 +83,8 @@ Currently a **PhD student in Information Science at UNT (Fall 2026)** and active
 
 | Repository | Description | Tech |
 |------------|-------------|------|
+| [**IPL-Analysis**](https://github.com/Gowthamch9/IPL-Analysis) | A deep-dive analysis of Indian Premier League cricket(2008 - 2023) using custom analytical metrics | Python |
+| [**superstore-profitability-analysis**](https://github.com/Gowthamch9/superstore-profitability-analysis) | Analyzed a retail superstore's 4-year sales dataset (2014-2017) to uncover profitability challenges and recommend actionable strategies | Python · PowerBI|
 | [**trisql-framework**](https://github.com/Gowthamch9/trisql-framework) | 3-stage Text-to-SQL pipeline (TriSQL architecture) — semantic schema selector, structure-aware SQL generator, complexity-aware refiner; **70% execution accuracy** on the Spider benchmark, 100% executability, zero GPU or API costs | Python · FastAPI · Ollama · SQLite · sentence-transformers |
 | [**TDSP-Transportation_Data_Science_Project**](https://github.com/Gowthamch9/TDSP-Transportation_Data_Science_Project) | End-to-end spatiotemporal analysis of **200k+ NYC crash records** — time-series decomposition, geospatial hotspot clustering, anomaly detection; findings presented at USDOT Federal Highway Administration | Python · Jupyter · GeoPandas |
 | [**Data-Analysis-using-python**](https://github.com/Gowthamch9/Data-Analysis-using-python) | Collection of data analysis workflows covering EDA, data cleaning, feature engineering, and statistical visualizations across real-world datasets | Python · Pandas · Jupyter |
@@ -86,6 +92,10 @@ Currently a **PhD student in Information Science at UNT (Fall 2026)** and active
 | [**Power-BI-Projects**](https://github.com/Gowthamch9/Power-BI-Projects) | Business intelligence dashboards with dynamic filtering, KPI cards, and drill-through views for financial and operational reporting | Power BI |
 | [**MSSQL_Queries**](https://github.com/Gowthamch9/MSSQL_Queries) | T-SQL query library covering complex joins, window functions, CTEs, stored procedures, and query performance tuning | T-SQL · SQL Server |
 | [**Pizza-Sales-Excel-Project**](https://github.com/Gowthamch9/Pizza-Sales-Excel-Project) | Sales analytics dashboard built with Pivot Tables, dynamic charts, and slicers to surface revenue trends and product performance | Excel |
+| [PySpark-in-DataBricks](https://github.com/Gowthamch9/PySpark-in-DataBricks) | Practice work with PySpark inside Databricks, focusing on data manipulation, transformations, and analytics at scale | PySpark |
+| [SQL-for-Data-Engineering](https://github.com/Gowthamch9/SQL-for-Data-Engineering) | This Project demonstrates my SQL skills applied in both real-world data engineering workflows and practice queries | PLpgSQL |
+| [**Vsion-Technologies-CaseStudy**](https://github.com/Gowthamch9/Vsion-Technologies-CaseStudy) | transformed raw data streams from Kafka topics into clean, business-ready datasets by designing optimized SQL views on PostgreSQL staging tables | Kafka · PostgreSQL |
+| [**Zetatek-DataAnalysis-CaseStudy**](https://github.com/Gowthamch9/Zetatek-DataAnalysis-CaseStudy) | Analyzed operational and financial datasets to uncover business trends, optimize resource allocation, and streamline reporting processes for leadership | SSIS · MSSQL · Power BI · Excel|
 
 ---
 
@@ -115,20 +125,10 @@ Currently a **PhD student in Information Science at UNT (Fall 2026)** and active
 | Data Engineering & ML Specialization | Google Cloud | 2024 |
 | Advanced Data Analytics Professional | Google | 2024 |
 | Power BI for Data Analysts | Microsoft | 2024 |
-| Advanced SQL for Data Engineering | — | 2024 |
+| Advanced SQL for Data Engineering | LinkedIn | 2024 |
 
 ---
 
 ## 🌐 Languages
 
 `English — Professional` &nbsp; `Telugu — Native` &nbsp; `Hindi — Conversational` &nbsp; `Tamil — Conversational`
-
----
-
-<div align="center">
-
-*Open to RA / TA / GRA opportunities at UNT — feel free to reach out!*
-
-[![Email](https://img.shields.io/badge/Email-GowthamVenkatEathamokkala%40my.unt.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:GowthamVenkatEathamokkala@my.unt.edu)
-
-</div>
