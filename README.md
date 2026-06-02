@@ -1,156 +1,134 @@
-<p align="center">
-  <img src="https://github.com/Gowthamch9/Gowthamch9/blob/main/unt.png" alt="Gowtham Venkat Eathamokkala Avatar" width="650"/>
-  <br>
-</p>
+<div align="center">
+
+# Gowtham Venkat Eathamokkala
+
+### Data Engineer · Data Analyst · ML Practitioner
+
+📍 Denton, Texas, USA &nbsp;|&nbsp; 📧 [gchaudary99@gmail.com](mailto:gchaudary99@gmail.com) &nbsp;|&nbsp; 📞 +1-940-536-4494
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/gowtham-eathamokkala)
+[![GitHub](https://img.shields.io/badge/GitHub-Gowthamch9-181717?logo=github&style=flat-square)](https://github.com/Gowthamch9)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--2937--3052-2EA44F?style=flat-square&logo=orcid)](https://orcid.org/0009-0000-2937-3052)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=-h3th_AAAAAJ&hl=en)
 
 </div>
- 
-Denton, Texas, USA
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/gowtham-eathamokkala) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square)](https://scholar.google.com/citations?user=-h3th_AAAAAJ&hl=en) [![Email](https://img.shields.io/badge/Email-gchaudary99%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:gchaudary99@gmail.com) ![Phone](https://img.shields.io/badge/Phone-%2B1--940--536--4494-4CAF50?style=flat-square&logo=phone)
-
----
-## Research Agenda
-When a large language model confidently returns a wrong answer to a high-stakes clinical or financial query, who bears the cost — and how do we prevent it? This question has defined my research trajectory. Working at the intersection of machine learning and real-world data infrastructure — from building financial data pipelines at scale to studying the failure modes of generative AI — I have come to focus on a single, urgent problem: **how do we build AI systems that know what they don’t know?** I am fascinated to develop scalable frameworks for uncertainty quantification and trustworthiness in AI systems operating on high-volume, real-world data.
 
 ---
 
-## Research Interests
+## 👋 About Me
 
-- **Reliability and Trustworthiness of AI Systems**  
-- **Machine Learning and Statistical Learning Theory**  
-- **Scalable Data Systems and Large-Scale Data Analytics**  
-- **Uncertainty Quantification in Predictive Models**
+I'm a **Data Engineer and Data Analyst** with 2+ years of industry experience and an M.S. in Advanced Data Analytics (GPA: 3.64) from the **University of North Texas**. I specialize in building scalable data pipelines, transforming complex datasets into actionable business insights, and delivering clean, reliable data to analytics and ML teams.
 
----
+I have hands-on experience across the full data stack — from streaming ingestion with **Apache Kafka** and ETL design in **SQL/Python**, to dashboards in **Power BI and Tableau** and ML workflows in **scikit-learn**. I enjoy working at the intersection of engineering rigor and analytical storytelling.
 
-## Education
-
-**University of North Texas** — *Master of Science in Advanced Data Analytics*  
-**May 2024** • **GPA 3.636 / 4.0**  
-
-**Gokaraju Rangaraju Institute of Engineering and Technology** — *B.Tech in Electronics and Communication Engineering*  
-**May 2022** • **GPA 3.36 / 4.0**
+Currently a **PhD student in Information Science at UNT (Fall 2026)** and actively seeking **RA / TA / GRA opportunities** at UNT.
 
 ---
 
-## Research Experience
+## 💼 Professional Experience
 
-**Graduate Research Affiliate — Reliability of Large Language Models**  
-Computational Healthcare & BioTechnology Lab, Dr. Mohammed Aledhari, University of North Texas • **Jan 2025 – Present**  
--	Investigating failure modes and uncertainty-aware decision-making processes in large language models (LLMs) to address the critical problem of confident yet inaccurate AI outputs.
--	Designing experimental protocols to evaluate model calibration and reliability across diverse query domains, contributing to the development of trustworthy AI evaluation frameworks.
--	Analyzing patterns of model hallucination and overconfidence, identifying systematic failure categories that inform uncertainty quantification strategies for real-world deployment.
+### Data Engineer — Vsion Technologies, Austin TX
+**Sep 2024 – Present**
+- Designed streaming pipelines processing **10M+ financial records/day** using Apache Kafka and PostgreSQL; reduced query latency by **40%** through optimized SQL views and indexing.
+- Built layered analytical data models delivering reliable, clean data to analytics and reporting teams with full documentation.
+- Implemented modular ETL transformations achieving **100% data accuracy** for downstream applications.
+- Collaborated with cross-functional stakeholders to translate business requirements into scalable, maintainable data solutions.
 
-
-**Capstone Research — Energy Consumption Forecasting**  
-University of North Texas • **Fall 2023 – Spring 2024**  
--	Built predictive machine learning pipelines to forecast U.S. energy consumption using large-scale time series datasets, implementing preprocessing, feature engineering, and anomaly detection workflows.
--	Evaluated multiple model architectures using RMSE and MSE metrics, revealing how temporal dependencies and distributional shift degrade prediction accuracy in long-horizon forecasting.
--	Produced research-style technical reports and visualizations supporting sustainable energy planning applications.
-
-**Transportation Safety and Spatiotemporal Analytics Project**  
-National Student Data Corps • **Jan 2025**  
--	Conducted end-to-end geospatial and temporal analysis of large-scale NYC traffic collision data, including schema validation, missing-value diagnostics, and bias-aware preprocessing.
--	Applied time-series decomposition, seasonality extraction, anomaly detection, and geospatial hotspot analysis to identify temporal risk patterns and spatial crash clusters.
--	Synthesized findings into a professional research poster presented to the U.S. Department of Transportation Federal Highway Administration.
-
-**Independent Research — Structural and Demographic Patterns in Custodial Arrests**  
-University of North Texas • **May 2024**  
--	Performed large-scale exploratory data analysis on Dallas Police Department arrest records using statistical aggregation, categorical encoding, and spatial pattern detection.
--	Uncovered non-intuitive patterns in high-density residential environments and weapon involvement prevalence, generating evidence-based insights for municipal resource allocation policy.
+### Data Analyst — Zetatek Technologies Pvt Ltd, Hyderabad, India
+**Jan 2022 – Dec 2022**
+- Built automated Power BI dashboards with dynamic filtering; reduced report generation time by **80%** and saved **20+ hours/month** in recurring financial workflows.
+- Analyzed **500k+** operational and financial records using SQL Server / SSIS; improved resource allocation efficiency by **15%**.
+- Applied statistical analysis and predictive modeling to forecast trends, improving budget planning and operational efficiency.
 
 ---
 
-## Publications and Manuscripts
+## 🎓 Education
 
-- B. V. Kumar, A. Bharat, **G. V. Eathamokkala**, Y. S. S. Harsha, A. U. Sree, "Analysis of an IoT based Water Quality Monitoring System," I-SMAC 2022. DOI: `10.1109/I-SMAC55078.2022.9987360`.  
-- Al-Edhari, A., **G. V. Eathamokkala**, & Rahouti, M. (2026). Response drift across frontier large language models. Manuscript under review at Nature Machine Intelligence.
-
----
-
-## Presentations and Posters
-
-- **Spatiotemporal Analysis of New York City Traffic Crash Data** — Research Poster, National Student Data Corps; presented to USDOT FHWA, Jan 2025.
+| Degree | Institution | Year | GPA |
+|--------|------------|------|-----|
+| **Ph.D. Information Science** *(Concentration: Data Science)* | University of North Texas | 2026– | — |
+| **M.S. Advanced Data Analytics** | University of North Texas | 2024 | 3.64 / 4.00 |
+| **B.Tech. Electronics Engineering** | GRIET, Hyderabad, India | 2022 | 3.36 / 4.00 |
 
 ---
 
-## Professional Experience
+## 🛠️ Technical Skills
 
-**Data Engineer** — Vsion Technologies, Austin TX • **Sep 2024 – Present**  
--	Design scalable data pipelines integrating Kafka streaming with PostgreSQL analytical storage layers for large-scale structured financial datasets, identifying computational bottlenecks that motivate research in scalable data systems.
--	Develop optimized relational data models and layered analytical views enabling downstream statistical analysis and machine learning workflows, with emphasis on reproducibility and experimental consistency.
--	Implement feature engineering pipelines and apply query optimization and modular schema design to improve computational efficiency for large-scale ML deployment.
+**Languages & Data Science**
+`Python` `SQL` `R` `PySpark`
+`Pandas` `NumPy` `scikit-learn` `PyTorch` `TensorFlow`
 
+**Data Engineering & Cloud**
+`Apache Kafka` `Apache Spark` `Snowflake`
+`GCP BigQuery` `Dataflow` `Pub/Sub` `Vertex AI`
+`PostgreSQL` `MySQL` `Microsoft SQL Server`
 
-**Data Analyst** — Zetatek Technologies Pvt Ltd, Hyderabad, India • **Jan 2022 – Dec 2022**  
--	Analyzed operational and financial datasets using SQL Server and SSIS to identify statistical trends and optimize resource allocation strategies across business units.
--	Developed automated analytical dashboards and integrated SQL-based data pipelines for structured reporting and visual analytics communication.
+**Visualization & BI**
+`Power BI` `Tableau` `Looker Studio` `Excel` `Matplotlib` `Seaborn`
 
----
+**ML & Analytics**
+`Regression` `Classification` `Clustering` `Random Forest` `SVM`
+`Time Series Forecasting` `PCA` `Model Evaluation` `Uncertainty Quantification`
 
-## Academic Projects
-
-**TriSQL Framework — Text-to-SQL Research Implementation**
-
-Independently implemented a three-stage Text-to-SQL framework inspired by the TriSQL architecture (Nature Scientific Reports, 2026), converting plain English questions into executable SQL queries using open-source tools running entirely on local hardware.
-
-- Designed and built a semantic schema selector using sentence-transformers (all-MiniLM-L6-v2) to filter relevant database tables via cosine similarity, reducing prompt noise and improving generation quality.
-- Developed a two-step structured SQL generator that first identifies required SQL clauses (JOIN, GROUP BY, WHERE) before generating the complete query — improving syntactic correctness over single-prompt approaches.
-- Implemented a complexity-aware refinement stage that classifies generated SQL as Easy, Medium, or Hard and applies tiered error correction including execution feedback loops for hard queries.
-- Evaluated on the Spider benchmark dataset (Yale University) — achieving 70% Execution Accuracy and 100% Executability Rate using SQLCoder via Ollama with no GPU or API costs.
-- Deployed a FastAPI web interface enabling non-technical users to query any SQLite database in plain English and view results directly in a browser.
-
-GitHub: https://github.com/Gowthamch9/trisql-framework
-
-**IoT-Based Water Quality Monitoring System (E-Aqua)**  
--	Engineered an IoT-enabled prototype integrating pH, turbidity, TDS, temperature, and flow sensors with an Arduino-based controller for real-time environmental data acquisition.
--	Implemented wireless data transmission via ESP8266 Wi-Fi module, enabling continuous remote monitoring through a cloud-connected dashboard and mobile interface.
--	Conducted comparative analysis of monitoring technologies, demonstrating a low-cost, scalable system for municipal, aquaculture, and agricultural applications. Published in IEEE.
+**Tools**
+`Git` `Jupyter Notebook` `LaTeX` `FastAPI`
 
 ---
 
-## Technical Skills
+## 📁 Projects & Analysis
 
-- **Programming and Data Science:** Python (NumPy, Pandas, scikit-learn, PyTorch, TensorFlow), SQL, PySpark, R
-- **Machine Learning and Statistics:** Regression, Classification, Clustering, Neural Networks, Time Series Forecasting, PCA, Random Forests, Support Vector Machines, Cross-Validation, Model Evaluation, Uncertainty Quantification
-- **Big Data and Cloud Systems:** Apache Spark, Kafka, Google Cloud Platform (BigQuery, Dataflow, Pub/Sub, Dataproc, Cloud SQL, Vertex AI), Snowflake
-- **Databases:** PostgreSQL, MySQL, Microsoft SQL Server
-- **Visualization and Tools:** Matplotlib, Seaborn, Power BI, Tableau, Git, Jupyter Notebook, LaTeX
-
----
-
-## Teaching and Mentoring
-
-- **Coding Tutor:** Taught Python and Scratch to middle and high school students through project‑based learning (~25 students).  
-- **Volunteer Data Science Mentor:** National Student Data Corps — guided teams on preprocessing, analysis, and poster development.
+| Repository | Description | Tech |
+|------------|-------------|------|
+| [**trisql-framework**](https://github.com/Gowthamch9/trisql-framework) | 3-stage Text-to-SQL pipeline (TriSQL architecture) — semantic schema selector, structure-aware SQL generator, complexity-aware refiner; **70% execution accuracy** on the Spider benchmark, 100% executability, zero GPU or API costs | Python · FastAPI · Ollama · SQLite · sentence-transformers |
+| [**TDSP-Transportation_Data_Science_Project**](https://github.com/Gowthamch9/TDSP-Transportation_Data_Science_Project) | End-to-end spatiotemporal analysis of **200k+ NYC crash records** — time-series decomposition, geospatial hotspot clustering, anomaly detection; findings presented at USDOT Federal Highway Administration | Python · Jupyter · GeoPandas |
+| [**Data-Analysis-using-python**](https://github.com/Gowthamch9/Data-Analysis-using-python) | Collection of data analysis workflows covering EDA, data cleaning, feature engineering, and statistical visualizations across real-world datasets | Python · Pandas · Jupyter |
+| [**Machine-Learning-using-Python**](https://github.com/Gowthamch9/Machine-Learning-using-Python) | Foundational to intermediate ML implementations: regression, classification, clustering, and model evaluation with real datasets | Python · scikit-learn · Jupyter |
+| [**Power-BI-Projects**](https://github.com/Gowthamch9/Power-BI-Projects) | Business intelligence dashboards with dynamic filtering, KPI cards, and drill-through views for financial and operational reporting | Power BI |
+| [**MSSQL_Queries**](https://github.com/Gowthamch9/MSSQL_Queries) | T-SQL query library covering complex joins, window functions, CTEs, stored procedures, and query performance tuning | T-SQL · SQL Server |
+| [**Pizza-Sales-Excel-Project**](https://github.com/Gowthamch9/Pizza-Sales-Excel-Project) | Sales analytics dashboard built with Pivot Tables, dynamic charts, and slicers to surface revenue trends and product performance | Excel |
 
 ---
 
-## Certifications and Honors
+## 📊 GitHub Stats
 
-**Certifications:** 
-- Google Cloud Data Engineering and ML Specialization
-- Google Advanced Data Analytics Professional Certificate
-- Microsoft Power BI for Data Analysts
-- Advanced SQL for Data Engineering.
-  
-**Honors:** 
-- Selected Participant, National Student Data Corps 
-- Graduate GPA 3.636 / 4.0, University of North Texas.
+<div align="center">
+
+![Gowtham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gowthamch9&show_icons=true&theme=default&hide_border=true&count_private=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowthamch9&layout=compact&theme=default&hide_border=true)
+
+</div>
 
 ---
 
-## Languages
+## 🔬 Research & Publications
 
-- **English:** Professional proficiency  
-- **Telugu:** Native  
-- **Hindi:** Conversational proficiency
-- **Tamil:** Conversational Proficiency
+- **Al-Edhari, A., Eathamokkala, G. V., & Rahouti, M.** (2026). *Response drift across frontier large language models.* Manuscript under review at **Nature Machine Intelligence**.
+- **B. V. Kumar et al.** (2022). *Analysis of an IoT based Water Quality Monitoring System.* IEEE I-SMAC 2022. [DOI: 10.1109/I-SMAC55078.2022.9987360](https://doi.org/10.1109/I-SMAC55078.2022.9987360)
 
 ---
 
-## Visual Badges and Quick Links
+## 🏅 Certifications
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--2937--3052-2EA44F?style=flat-square&logo=orcid)](https://orcid.org/0009-0000-2937-3052)
+| Certification | Provider | Year |
+|--------------|----------|------|
+| Data Engineering & ML Specialization | Google Cloud | 2024 |
+| Advanced Data Analytics Professional | Google | 2024 |
+| Power BI for Data Analysts | Microsoft | 2024 |
+| Advanced SQL for Data Engineering | — | 2024 |
 
+---
+
+## 🌐 Languages
+
+`English — Professional` &nbsp; `Telugu — Native` &nbsp; `Hindi — Conversational` &nbsp; `Tamil — Conversational`
+
+---
+
+<div align="center">
+
+*Open to RA / TA / GRA opportunities at UNT — feel free to reach out!*
+
+[![Email](https://img.shields.io/badge/Email-GowthamVenkatEathamokkala%40my.unt.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:GowthamVenkatEathamokkala@my.unt.edu)
+
+</div>
