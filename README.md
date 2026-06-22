@@ -6,7 +6,7 @@
 </div>
  
 
-### Data Engineer · Data Analyst · ML Practitioner
+### Research in AI Trustworthy
 
 📍 Denton, Texas, USA &nbsp;|&nbsp; 📧 [GowthamVenkatEathamokkala@my.unt.edu](mailto:GowthamVenkatEathamokkala@my.unt.edu) &nbsp;|&nbsp; 📞 +1-940-536-4494
 
