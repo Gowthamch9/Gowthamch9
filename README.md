@@ -83,6 +83,7 @@ Currently a **PhD student in Information Science at UNT (Fall 2026)** and active
 
 | Repository | Description | Tech |
 |------------|-------------|------|
+| [**UNT-Bibliometrics**](https://github.com/Gowthamch9/UNT-Bibliometrics-Analysis) | Confined understanding of Bibliometrics of the University of North Texas from 2000 to till now | Python, T-SQL, Power BI |
 | [**IPL-Analysis**](https://github.com/Gowthamch9/IPL-Analysis) | A deep-dive analysis of Indian Premier League cricket(2008 - 2023) using custom analytical metrics | Python |
 | [**superstore-profitability-analysis**](https://github.com/Gowthamch9/superstore-profitability-analysis) | Analyzed a retail superstore's 4-year sales dataset (2014-2017) to uncover profitability challenges and recommend actionable strategies | Python · PowerBI|
 | [**trisql-framework**](https://github.com/Gowthamch9/trisql-framework) | 3-stage Text-to-SQL pipeline (TriSQL architecture) — semantic schema selector, structure-aware SQL generator, complexity-aware refiner; **70% execution accuracy** on the Spider benchmark, 100% executability, zero GPU or API costs | Python · FastAPI · Ollama · SQLite · sentence-transformers |
