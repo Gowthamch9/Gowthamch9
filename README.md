@@ -6,7 +6,7 @@
 </div>
  
 
-### Research in AI Trustworthy
+### Research in Exploratory Data Analytics and Explainable AI Audits in FinTech
 
 📍 Denton, Texas, USA &nbsp;|&nbsp; 📧 [GowthamVenkatEathamokkala@my.unt.edu](mailto:GowthamVenkatEathamokkala@my.unt.edu) &nbsp;|&nbsp; 📞 +1-940-536-4494
 
