@@ -23,7 +23,7 @@
 
 # Hi there, I'm Gowtham Venkat Eathamokkala! 👋
 
-I am a **PhD Student in Information Science (Data Science Concentration)** at the [University of North Texas](https://www.unt.edu/ "UNT Home"), where my research focuses on **exploratory data analytics** and **causal machine learning**. I am passionate about uncovering hidden patterns and building robust models to understand real-world cause and effect. 
+I am a **PhD Student in Information Science (Data Science Concentration)** at the [University of North Texas](https://www.unt.edu/ "UNT Home"), where my research interests on **Exploratory Data Analytics** and **Causal Machine Learning**. I am passionate about uncovering hidden patterns and building robust models to understand real-world cause and effect. 
 
 Prior to my PhD journey, I earned my **M.S. in Advanced Data Analytics** from UNT (GPA: 3.64) and spent **2+ years in industry** bridging engineering rigor and analytical storytelling. I have hands-on experience working as a **Data Engineer** in the financial sector and a **Data Analyst** in manufacturing.
 
