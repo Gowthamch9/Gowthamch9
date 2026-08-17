@@ -6,7 +6,7 @@
 </div>
  
 
-### Research in Exploratory Data Analytics and Explainable AI Audits in FinTech
+### Research in Exploratory Data Analytics and Casual Machine Learning
 
 📍 Denton, Texas, USA &nbsp;|&nbsp; 📧 [GowthamVenkatEathamokkala@my.unt.edu](mailto:GowthamVenkatEathamokkala@my.unt.edu) &nbsp;|&nbsp; 📞 +1-940-536-4494
 
