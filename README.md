@@ -21,11 +21,11 @@
 
 ## 👋 About Me
 
-I'm a **Data Engineer and Data Analyst** with 2+ years of industry experience and an M.S. in Advanced Data Analytics (GPA: 3.64) from the **University of North Texas**. I specialize in building scalable data pipelines, transforming complex datasets into actionable business insights, and delivering clean, reliable data to analytics and ML teams.
+# Hi there, I'm Gowtham Venkat Eathamokkala! 👋
 
-I have hands-on experience across the full data stack — from streaming ingestion with **Apache Kafka** and ETL design in **SQL/Python**, to dashboards in **Power BI and Tableau** and ML workflows in **scikit-learn**. I enjoy working at the intersection of engineering rigor and analytical storytelling.
+I am a **PhD Student in Information Science (Data Science Concentration)** at the [University of North Texas](https://www.unt.edu/ "UNT Home"), where my research focuses on **exploratory data analytics** and **causal machine learning**. I am passionate about uncovering hidden patterns and building robust models to understand real-world cause and effect. 
 
-Currently a **PhD student in Information Science at UNT (Fall 2026)** and actively seeking **RA / TA / GRA opportunities** at UNT.
+Prior to my PhD journey, I earned my **M.S. in Advanced Data Analytics** from UNT (GPA: 3.64) and spent **2+ years in industry** bridging engineering rigor and analytical storytelling. I have hands-on experience working as a **Data Engineer** in the financial sector and a **Data Analyst** in manufacturing.
 
 ---
 
