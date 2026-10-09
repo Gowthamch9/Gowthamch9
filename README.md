@@ -1,123 +1,32 @@
-<p align="center">
-  <img src="https://github.com/Gowthamch9/Gowthamch9/blob/main/unt.png" alt="Gowtham Venkat Eathamokkala Avatar" width="650"/>
-  <br>
-</p>
+# Gowtham Venkat Eathamokkala
 
-</div>
- 
+PhD student in Information Science (Data Science) at the **University of North Texas**.
+I audit **explainable-AI recourse in finance**: when a credit model rejects someone and suggests what to change, are those recommendations actually feasible, stable, and equally achievable across groups?
 
-### Research in Exploratory Data Analytics and Casual Machine Learning
+Before the PhD: 2+ years as a data engineer (streaming financial data) and data analyst.
+**Seeking Summer 2027 internships in ML / data science.**
 
-📍 Denton, Texas, USA &nbsp;|&nbsp; 📧 [GowthamVenkatEathamokkala@my.unt.edu](mailto:GowthamVenkatEathamokkala@my.unt.edu) &nbsp;|&nbsp; 📞 +1-940-536-4494
+### Research
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/gowtham-eathamokkala)
-[![GitHub](https://img.shields.io/badge/GitHub-Gowthamch9-181717?logo=github&style=flat-square)](https://github.com/Gowthamch9)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--2937--3052-2EA44F?style=flat-square&logo=orcid)](https://orcid.org/0009-0000-2937-3052)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=-h3th_AAAAAJ&hl=en)
+- **Auditing algorithmic recourse in credit decisions** *(ongoing)*: counterfactual explanations, recourse cost and validity, group fairness.
+- **Response drift across frontier large language models.** Al-Edhari, A., Eathamokkala, G. V., & Rahouti, M. (2026). *Under review at Nature Machine Intelligence.*
+- **Analysis of an IoT-based water quality monitoring system.** Kumar, B. V. et al. (2022). IEEE I-SMAC. [doi:10.1109/I-SMAC55078.2022.9987360](https://doi.org/10.1109/I-SMAC55078.2022.9987360)
 
-</div>
+### Selected work
 
----
+| Project | What it is | Result |
+|---|---|---|
+| [trisql-framework](https://github.com/Gowthamch9/trisql-framework) | Three-stage Text-to-SQL: schema selection → SQL generation → complexity-aware refinement, running locally via Ollama | **70% execution accuracy** on Spider, no GPU or API cost |
+| [TDSP](https://github.com/Gowthamch9/TDSP-Transportation_Data_Science_Project) | Spatiotemporal analysis of 200k+ NYC crash records: time-series decomposition, geospatial hotspot clustering, anomaly detection | Presented to the USDOT Federal Highway Administration |
+| [Vsion case study](https://github.com/Gowthamch9/Vsion-Technologies-CaseStudy) | Kafka topics → business-ready SQL views on PostgreSQL staging tables | Based on production work handling 10M+ records/day |
+| [UNT-Bibliometrics](https://github.com/Gowthamch9/UNT-Bibliometrics-Analysis) | Bibliometric analysis of UNT research output, 2000–present | Python · T-SQL · Power BI |
 
-## 👋 About Me
+### Toolkit
 
-# Hi there, I'm Gowtham Venkat Eathamokkala! 👋
+Python · SQL · R · PyTorch · scikit-learn · PySpark · Kafka · Spark · BigQuery · Snowflake · PostgreSQL · FastAPI · Git · LaTeX
 
-I am a **PhD Student in Information Science (Data Science Concentration)** at the [University of North Texas](https://www.unt.edu/ "UNT Home"), where my research interests on **Exploratory Data Analytics** and **Causal Machine Learning**. I am passionate about uncovering hidden patterns and building robust models to understand real-world cause and effect. 
+*Currently:* Google Advanced Data Analytics Certificate (in progress): statistics, regression, and ML.
 
-Prior to my PhD journey, I earned my **M.S. in Advanced Data Analytics** from UNT (GPA: 3.64) and spent **2+ years in industry** bridging engineering rigor and analytical storytelling. I have hands-on experience working as a **Data Engineer** in the financial sector and a **Data Analyst** in manufacturing.
+### Contact
 
----
-
-## 💼 Professional Experience
-
-### Data Engineer — Vsion Technologies, Austin TX
-**Sep 2024 – Present**
-- Designed streaming pipelines processing **10M+ financial records/day** using Apache Kafka and PostgreSQL; reduced query latency by **40%** through optimized SQL views and indexing.
-- Built layered analytical data models delivering reliable, clean data to analytics and reporting teams with full documentation.
-- Implemented modular ETL transformations achieving **100% data accuracy** for downstream applications.
-- Collaborated with cross-functional stakeholders to translate business requirements into scalable, maintainable data solutions.
-
-### Data Analyst — Zetatek Technologies Pvt Ltd, Hyderabad, India
-**Jan 2022 – Dec 2022**
-- Built automated Power BI dashboards with dynamic filtering; reduced report generation time by **80%** and saved **20+ hours/month** in recurring financial workflows.
-- Analyzed **500k+** operational and financial records using SQL Server / SSIS; improved resource allocation efficiency by **15%**.
-- Applied statistical analysis and predictive modeling to forecast trends, improving budget planning and operational efficiency.
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year | GPA |
-|--------|------------|------|-----|
-| **Ph.D. Information Science** *(Concentration: Data Science)* | University of North Texas | 2026– | — |
-| **M.S. Advanced Data Analytics** | University of North Texas | 2024 | 3.64 / 4.00 |
-| **B.Tech. Electronics Engineering** | GRIET, Hyderabad, India | 2022 | 3.36 / 4.00 |
-
----
-
-## 🛠️ Technical Skills
-
-**Languages & Data Science**
-`Python` `SQL` `R` `PySpark`
-`Pandas` `NumPy` `scikit-learn` `PyTorch` `TensorFlow`
-
-**Data Engineering & Cloud**
-`Apache Kafka` `Apache Spark` `Snowflake`
-`GCP BigQuery` `Dataflow` `Pub/Sub` `Vertex AI`
-`PostgreSQL` `MySQL` `Microsoft SQL Server`
-
-**Visualization & BI**
-`Power BI` `Tableau` `Looker Studio` `Excel` `Matplotlib` `Seaborn`
-
-**ML & Analytics**
-`Regression` `Classification` `Clustering` `Random Forest` `SVM`
-`Time Series Forecasting` `PCA` `Model Evaluation` `Uncertainty Quantification`
-
-**Tools**
-`Git` `Jupyter Notebook` `LaTeX` `FastAPI`
-
----
-
-## 📁 Projects & Analysis
-
-| Repository | Description | Tech |
-|------------|-------------|------|
-| [**UNT-Bibliometrics**](https://github.com/Gowthamch9/UNT-Bibliometrics-Analysis) | Confined understanding of Bibliometrics of the University of North Texas from 2000 to till now | Python, T-SQL, Power BI |
-| [**IPL-Analysis**](https://github.com/Gowthamch9/IPL-Analysis) | A deep-dive analysis of Indian Premier League cricket(2008 - 2023) using custom analytical metrics | Python |
-| [**superstore-profitability-analysis**](https://github.com/Gowthamch9/superstore-profitability-analysis) | Analyzed a retail superstore's 4-year sales dataset (2014-2017) to uncover profitability challenges and recommend actionable strategies | Python · PowerBI|
-| [**trisql-framework**](https://github.com/Gowthamch9/trisql-framework) | 3-stage Text-to-SQL pipeline (TriSQL architecture) — semantic schema selector, structure-aware SQL generator, complexity-aware refiner; **70% execution accuracy** on the Spider benchmark, 100% executability, zero GPU or API costs | Python · FastAPI · Ollama · SQLite · sentence-transformers |
-| [**TDSP-Transportation_Data_Science_Project**](https://github.com/Gowthamch9/TDSP-Transportation_Data_Science_Project) | End-to-end spatiotemporal analysis of **200k+ NYC crash records** — time-series decomposition, geospatial hotspot clustering, anomaly detection; findings presented at USDOT Federal Highway Administration | Python · Jupyter · GeoPandas |
-| [**Data-Analysis-using-python**](https://github.com/Gowthamch9/Data-Analysis-using-python) | Collection of data analysis workflows covering EDA, data cleaning, feature engineering, and statistical visualizations across real-world datasets | Python · Pandas · Jupyter |
-| [**Machine-Learning-using-Python**](https://github.com/Gowthamch9/Machine-Learning-using-Python) | Foundational to intermediate ML implementations: regression, classification, clustering, and model evaluation with real datasets | Python · scikit-learn · Jupyter |
-| [**Power-BI-Projects**](https://github.com/Gowthamch9/Power-BI-Projects) | Business intelligence dashboards with dynamic filtering, KPI cards, and drill-through views for financial and operational reporting | Power BI |
-| [**MSSQL_Queries**](https://github.com/Gowthamch9/MSSQL_Queries) | T-SQL query library covering complex joins, window functions, CTEs, stored procedures, and query performance tuning | T-SQL · SQL Server |
-| [**Pizza-Sales-Excel-Project**](https://github.com/Gowthamch9/Pizza-Sales-Excel-Project) | Sales analytics dashboard built with Pivot Tables, dynamic charts, and slicers to surface revenue trends and product performance | Excel |
-| [PySpark-in-DataBricks](https://github.com/Gowthamch9/PySpark-in-DataBricks) | Practice work with PySpark inside Databricks, focusing on data manipulation, transformations, and analytics at scale | PySpark |
-| [SQL-for-Data-Engineering](https://github.com/Gowthamch9/SQL-for-Data-Engineering) | This Project demonstrates my SQL skills applied in both real-world data engineering workflows and practice queries | PLpgSQL |
-| [**Vsion-Technologies-CaseStudy**](https://github.com/Gowthamch9/Vsion-Technologies-CaseStudy) | transformed raw data streams from Kafka topics into clean, business-ready datasets by designing optimized SQL views on PostgreSQL staging tables | Kafka · PostgreSQL |
-| [**Zetatek-DataAnalysis-CaseStudy**](https://github.com/Gowthamch9/Zetatek-DataAnalysis-CaseStudy) | Analyzed operational and financial datasets to uncover business trends, optimize resource allocation, and streamline reporting processes for leadership | SSIS · MSSQL · Power BI · Excel|
-
----
-
-## 🔬 Research & Publications
-
-- **Al-Edhari, A., Eathamokkala, G. V., & Rahouti, M.** (2026). *Response drift across frontier large language models.* Manuscript under review at **Nature Machine Intelligence**.
-- **B. V. Kumar et al.** (2022). *Analysis of an IoT based Water Quality Monitoring System.* IEEE I-SMAC 2022. [DOI: 10.1109/I-SMAC55078.2022.9987360](https://doi.org/10.1109/I-SMAC55078.2022.9987360)
-
----
-
-## 🏅 Certifications
-
-| Certification | Provider | Year |
-|--------------|----------|------|
-| Data Engineering & ML Specialization | Google Cloud | 2024 |
-| Advanced Data Analytics Professional | Google | 2024 |
-| Power BI for Data Analysts | Microsoft | 2024 |
-| Advanced SQL for Data Engineering | LinkedIn | 2024 |
-
----
-
-## 🌐 Languages
-
-`English — Professional` &nbsp; `Telugu — Native` &nbsp; `Hindi — Conversational` &nbsp; `Tamil — Conversational`
+[Email](mailto:GowthamVenkatEathamokkala@my.unt.edu) · [LinkedIn](https://www.linkedin.com/in/gowtham-eathamokkala) · [Google Scholar](https://scholar.google.com/citations?user=-h3th_AAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0000-2937-3052)
